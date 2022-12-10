@@ -2,6 +2,8 @@ from PIL import Image
 
 import cv2
 import zbar
+import pyzbar.pyzbar as pyzbar
+
 import numpy as np
 np.set_printoptions(precision=2)
 
